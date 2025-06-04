@@ -4,28 +4,6 @@ Bem-vindo(a) ao repositório do curso **Nome do Curso**. Aqui você encontrará 
 
 ---
 
-## 📂 Estrutura do Repositório
-
-📦 nome-do-curso/
-├── aulas/
-│ ├── aula01_introducao/
-│ ├── aula02_algoritmos/
-│ └── ...
-├── materiais_de_apoio/
-│ ├── bibliografia.md
-│ ├── glossario.md
-│ └── artigos/
-├── atividades/
-│ ├── lista01.md
-│ ├── projeto_final.md
-│ └── datasets/
-├── codigos/
-├── docs/
-├── README.md
-└── LICENSE
-
----
-
 ## 📅 Aulas
 
 | Aula | Tema | Material |
